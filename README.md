@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 👋 I’m Dharshan</h1>
-<p align="center"><em>A passionate frontend developer obsessed with crafting sleek UIs and diving into the wild worlds of Machine Learning and AI.</em></p>
+<p align="center"><em>A passionate developer obsessed with crafting sleek UIs, building robust backends, and diving into the wild worlds of Machine Learning and AI</em></p>
 
 <p align="center">
   <a href="https://github.com/Dharshan2208"><img src="https://img.shields.io/github/followers/Dharshan2208?style=social" alt="Followers"/></a>
