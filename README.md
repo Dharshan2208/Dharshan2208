@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Flix Together</td>
-    <td>A cool project I built</td>
+    <td>A cool hackhathon project</td>
     <td><a href="https://github.com/Dharshan2208/FlixTogether">Github</a></td>
   </tr>
   <tr>
