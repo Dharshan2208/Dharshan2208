@@ -67,14 +67,14 @@
     <th>Link</th>
   </tr>
   <tr>
-    <td>Project1</td>
+    <td>Flix Together</td>
     <td>A cool project I built</td>
-    <td><a href="https://github.com/Dharshan2208/project1">GitHub</a></td>
+    <td><a href="https://github.com/Dharshan2208/Flix Together">Github</a></td>
   </tr>
   <tr>
-    <td>Project2</td>
+    <td>Symbol Classifier</td>
     <td>Another awesome project</td>
-    <td><a href="https://github.com/Dharshan2208/project2">GitHub</a></td>
+    <td><a href="https://github.com/Dharshan2208/Symbol-Classifier">GitHub</a></td>
   </tr>
 </table>
 
