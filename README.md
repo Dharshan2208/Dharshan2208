@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://your-image-link.com/profile.jpg" alt="Dharshan" width="150" style="border-radius: 50%;"/>
-</p>
-
 <h1 align="center">Hello World! 👋 I’m Dharshan</h1>
 <p align="center"><em>A passionate frontend developer obsessed with crafting sleek UIs and diving into the wild worlds of Machine Learning and AI.</em></p>
 
