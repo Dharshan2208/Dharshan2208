@@ -1,15 +1,64 @@
-<h1>Hi 👋, I'm Dharshan</h1>
-<p>A passionate frontend developer and interested in ML and AI </p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dharshan2208&show_icons=true&locale=en" alt="Dharshan2208" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharshan2208&" alt="Dharshan2208" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dharshan2208&show_icons=true&locale=en&layout=compact" alt="Dharshan2208" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dharshan2208" alt="Dharshan2208" /></a></p>
+<h1 align="center">Hello World! 👋 I’m Dharshan</h1>
+<p align="center"><em>A passionate frontend developer obsessed with crafting sleek UIs and diving into the wild worlds of Machine Learning and AI.</em></p>
+
+---
+
+## 🚀 About Me
+<p align="center">I’m all about building intuitive, dynamic interfaces that make users go “Wow!” When I’m not coding, I’m either exploring cutting-edge AI/ML trends or contributing to open-source projects that spark my curiosity.</p>
+
+---
+
+## 🛠️ Skills That Define Me
+
+### Programming Languages
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/></a>
+</p>
+
+### Frameworks & Libraries
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42"/></a>
+</p>
+
+### Databases
+<p align="center">
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42"/></a>
+</p>
+
+### Tools
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/></a>
+  <a href="https://appwrite.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="42" height="42"/></a>
+</p>
+
+---
+
+## 📊 My GitHub Journey
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharshan2208&show_icons=true&locale=en&theme=radical" alt="Dharshan’s GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharshan2208&theme=radical" alt="Dharshan’s Streak" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dharshan2208&show_icons=true&locale=en&layout=compact&theme=radical" alt="Dharshan’s Top Languages" width="300"/>
+</p>
+
+---
+
+## 🏆 My GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dharshan2208&theme=onedark" alt="Dharshan’s Trophies"/></a>
+</p>
+
+---
+
+## 🤝 Let’s Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/dharshan-h-734033334/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+---
+
+<p align="center"><em>“Code is like art – it’s all about creating something beautiful that works.”</em></p>
