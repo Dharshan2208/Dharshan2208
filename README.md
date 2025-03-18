@@ -65,7 +65,7 @@
   <tr>
     <td>Flix Together</td>
     <td>A cool project I built</td>
-    <td><a href="https://github.com/Dharshan2208/Flix-Together">Github</a></td>
+    <td><a href="https://github.com/Dharshan2208/FlixTogether">Github</a></td>
   </tr>
   <tr>
     <td>Symbol Classifier</td>
