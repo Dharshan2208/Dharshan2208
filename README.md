@@ -1,5 +1,14 @@
+<p align="center">
+  <img src="https://your-image-link.com/profile.jpg" alt="Dharshan" width="150" style="border-radius: 50%;"/>
+</p>
+
 <h1 align="center">Hello World! 👋 I’m Dharshan</h1>
 <p align="center"><em>A passionate frontend developer obsessed with crafting sleek UIs and diving into the wild worlds of Machine Learning and AI.</em></p>
+
+<p align="center">
+  <a href="https://github.com/Dharshan2208"><img src="https://img.shields.io/github/followers/Dharshan2208?style=social" alt="Followers"/></a>
+  <a href="https://github.com/Dharshan2208"><img src="https://img.shields.io/github/stars/Dharshan2208?style=social" alt="Stars"/></a>
+</p>
 
 ---
 
@@ -37,12 +46,40 @@
 ---
 
 ## 📊 My GitHub Journey
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Dharshan2208&show_icons=true&locale=en&theme=radical" alt="Dharshan’s GitHub Stats" width="400"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dharshan2208&show_icons=true&locale=en&layout=compact&theme=radical" alt="Dharshan’s Top Languages" width="300"/></td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharshan2208&show_icons=true&locale=en&theme=radical" alt="Dharshan’s GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharshan2208&theme=radical" alt="Dharshan’s Streak" width="400"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharshan2208&theme=react-dark" alt="Dharshan’s Contribution Graph"/>
 </p>
+
+---
+
+## 🌟 Featured Projects
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Project1</td>
+    <td>A cool project I built</td>
+    <td><a href="https://github.com/Dharshan2208/project1">GitHub</a></td>
+  </tr>
+  <tr>
+    <td>Project2</td>
+    <td>Another awesome project</td>
+    <td><a href="https://github.com/Dharshan2208/project2">GitHub</a></td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dharshan2208&show_icons=true&locale=en&layout=compact&theme=radical" alt="Dharshan’s Top Languages" width="300"/>
+  <a href="https://github.com/Dharshan2208?tab=repositories"><img src="https://img.shields.io/badge/View_All_Projects-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/></a>
 </p>
 
 ---
