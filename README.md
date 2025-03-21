@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 👋 I’m Dharshan</h1>
-<p align="center"><em>A passionate developer obsessed with crafting sleek UIs, building robust backends, and diving into the wild worlds of Machine Learning and AI</em></p>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Passionate+Coder;UI+Crafting+Fanatic;Backend+Builder;ML+%26+AI+Explorer" /> </div>
 
 <p align="center">
   <a href="https://github.com/Dharshan2208"><img src="https://img.shields.io/github/followers/Dharshan2208?style=social" alt="Followers"/></a>
@@ -10,6 +10,7 @@
 
 ## 🚀 About Me
 <p align="center">I’m all about building intuitive, dynamic interfaces that make users go “Wow!” When I’m not coding, I’m either exploring cutting-edge AI/ML trends or contributing to open-source projects that spark my curiosity.</p>
+
 
 ---
 
