@@ -39,8 +39,8 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="42" height="42"/></a>
   <a href="https://www.eclipse.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="42" height="42"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="42" height="42"/></a>
-  <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="42" height="42"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="42" height="42"/></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="42" height="42"/></a>
 </p>
 
 ---
