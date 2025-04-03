@@ -25,14 +25,14 @@
 ### Frameworks & Libraries
 <p align="center">
    <img
-      src="https://skillicons.dev/icons?i=electron,node,pytorch,react"
+      src="https://skillicons.dev/icons?i=electron,nodejs,pytorch,react"
     />
 </p>
 
 ### Tools & Technologies
 <p align="center">
    <img
-      src="https://skillicons.dev/icons?i=appwrite,arduino,eclipse,firebase,git,github,ubuntu,vercel,vscode,vscodium,mongodb&perline=10"
+      src="https://skillicons.dev/icons?i=appwrite,arduino,eclipse,firebase,git,github,ubuntu,vercel,vscode,vscodium,mongodb&perline=6"
     />
 </p>
 
