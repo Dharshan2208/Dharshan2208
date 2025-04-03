@@ -32,7 +32,7 @@
 ### Tools & Technologies
 <p align="center">
    <img
-      src="https://skillicons.dev/icons?i=appwrite,arduino,eclipse,firebase,git,github,ubuntu,vercel,vscode,vscodium,mongodb&perline=6"
+      src="https://skillicons.dev/icons?i=appwrite,arduino,eclipse,firebase,git,github,ubuntu,vercel,vscode,mongodb&perline=5"
     />
 </p>
 
