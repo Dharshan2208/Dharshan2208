@@ -39,6 +39,9 @@
 ---
 
 ## 📊 My GitHub Journey
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharshan2208&theme=dracula&hide_border=true">
+</div>
 <table align="center">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Dharshan2208&show_icons=true&locale=en&theme=radical" alt="Dharshan’s GitHub Stats" width="400"/></td>
