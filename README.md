@@ -56,6 +56,7 @@
 ---
 
 ## 🌟 Featured Projects
+
 <table align="center">
   <tr>
     <th>Project</th>
@@ -63,14 +64,19 @@
     <th>Link</th>
   </tr>
   <tr>
-    <td>Flix Together</td>
-    <td>A cool hackathon project</td>
-    <td><a href="https://github.com/Dharshan2208/FlixTogether">Github</a></td>
+    <td><strong>Exam Genius</strong></td>
+    <td>An AI-powered tool designed during a hackathon to streamline exam preparation and enhance learning efficiency.</td>
+    <td><a href="https://github.com/Dharshan2208/ExamGenius" target="_blank" rel="noopener noreferrer">View on GitHub</a></td>
   </tr>
   <tr>
-    <td>Symbol Classifier</td>
-    <td>Another awesome project</td>
-    <td><a href="https://github.com/Dharshan2208/Symbol-Classifier">GitHub</a></td>
+    <td><strong>Symbol Classifier</strong></td>
+    <td>A deep learning project that classifies mathematical or scientific symbols using a trained neural network.</td>
+    <td><a href="https://github.com/Dharshan2208/Symbol-Classifier" target="_blank" rel="noopener noreferrer">View on GitHub</a></td>
+  </tr>
+  <tr>
+    <td><strong>Flix Together</strong></td>
+    <td>A collaborative movie-watching app developed at a hackathon, enabling friends to watch and vote on films together in real-time.</td>
+    <td><a href="https://github.com/Dharshan2208/FlixTogether" target="_blank" rel="noopener noreferrer">View on GitHub</a></td>
   </tr>
 </table>
 
