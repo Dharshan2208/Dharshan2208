@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td><strong>Flix Together</strong></td>
-    <td>A collaborative movie-watching app developed at a hackathon, enabling friends to watch and vote on films together in real-time.</td>
+    <td>A collaborative movie-watching app built at a hackathon, designed to help friends find the perfect movie to watch together with intelligent group-based recommendations.</td>
     <td><a href="https://github.com/Dharshan2208/FlixTogether" target="_blank" rel="noopener noreferrer">View on GitHub</a></td>
   </tr>
 </table>
