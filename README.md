@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Just+A+Coder;Frontend+Developer;Backend+Builder;ML+%26+AI+Explorer" />
 </div>
 
-<div class="tenor-gif-embed" data-postid="24296296" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/pompo-the-cinephile-typing-fast-anime-shitposting-gif-24296296">Pompo The Cinephile Typing Fast GIF</a>from <a href="https://tenor.com/search/pompo+the+cinephile-gifs">Pompo The Cinephile GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<br>
-
 ## 🚀 About Me
 <p align="center">
   I like building smooth, good-looking web apps that just make sense. When I’m not coding, I’m either watching anime, messing around with elctronics, or just vibing with whatever I have.
