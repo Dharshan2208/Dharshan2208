@@ -4,6 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Just+A+Coder;Frontend+Developer;Backend+Builder;ML+%26+AI+Explorer" />
 </div>
 
+<p align="center">
+  <img src="[https://media.tenor.com/K3KXWlgbQuYAAAAC/pompo-the-cinephile-typing-fast.gif](https://media1.tenor.com/m/o-wNCEq_6f0AAAAd/pompo-the-cinephile-typing-fast.gif)" width="500"/>
+</p>
 <br>
 
 ## 🚀 About Me
