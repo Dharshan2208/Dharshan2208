@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Just+A+Coder;Frontend+Developer;Backend+Builder;ML+%26+AI+Explorer" />
 </div>
 
-<p align="center">
-  <img src="[https://media.tenor.com/K3KXWlgbQuYAAAAC/pompo-the-cinephile-typing-fast.gif](https://media1.tenor.com/m/o-wNCEq_6f0AAAAd/pompo-the-cinephile-typing-fast.gif)" width="500"/>
-</p>
+<div class="tenor-gif-embed" data-postid="24296296" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/pompo-the-cinephile-typing-fast-anime-shitposting-gif-24296296">Pompo The Cinephile Typing Fast GIF</a>from <a href="https://tenor.com/search/pompo+the+cinephile-gifs">Pompo The Cinephile GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <br>
 
 ## 🚀 About Me
