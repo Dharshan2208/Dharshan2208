@@ -6,6 +6,6 @@ alt="Dharshan GitHub Banner" />
 
 ## 21, backend & systems
 
-- I'm Dharshan, a pre final year CSE student at Amrita Vishwa Vidyapeetham, Coimbatore.<br>
-- I build backend systems, distributed applications, AI tools and whatever random ideas I feel like bringing to life.<br>
-- Mostly working with Go and Python, figuring things out and breaking things along the way.
+Pre final year CSE student building things with Go, Python and JavaScript.<br>
+Interested in backend systems, distributed architectures and AI applications.<br>
+Usually turning random ideas into projects, breaking things and figuring out how they work.
